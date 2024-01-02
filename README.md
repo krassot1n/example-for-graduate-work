@@ -12,7 +12,7 @@
 
 # Язык и Окружение
 
-- Java 21
+- Java 11
 - Maven
 - Spring Boot
 - Spring Web
